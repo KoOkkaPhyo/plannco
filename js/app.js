@@ -25,7 +25,7 @@ $(document).ready(function(){
 
 		$(window).scroll(function(){
 			let position = $(this).scrollTop();
-			// console.log(position);
+			console.log(position);
 
 			if(position >= 200){
 				$(".navbar").addClass("navmenus")

@@ -206,6 +206,8 @@ header{
 .titles::before{
 	border-left:3px solid red;
 	border-bottom: 3px solid red;
+/*		border:3px solid red;*/
+
 
 	left:0;
 	bottom: 0;
